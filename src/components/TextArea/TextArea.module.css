@@ -1,0 +1,9 @@
+.textarea {
+  display: block;
+  width: 100%;
+  font-family: arial, sans-serif;
+  padding: 5px 10px;
+  font-size: 1rem;
+  line-height: 1.5rem;
+  border-radius: 0.25rem;
+}

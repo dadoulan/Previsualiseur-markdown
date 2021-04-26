@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 30px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.elements {
+  display: flex;
+  /* height: 100vh;
+  min-height: 100vh; */
+  /* margin: 0px 10px; */
+}
+
+.element {
+  width: 50%;
+  padding: 0 15px;
+  /* margin: 0 10px; */
+}
+
+textarea {
+  display: block;
+}

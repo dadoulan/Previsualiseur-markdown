@@ -1,5 +1,7 @@
 # Prévisualiseur Markdown
 
+![markdown](https://github.com/shompoth/Previsualiseur-markdown/blob/main/src/assets/img/screenshot-markdown.png)
+
 Ce projet est un prévisualiseur de Markdown (notamment utilisé sur github).
 
 ## Fonctionnalité : 
